@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFF8E1">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="50" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFF8E1" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFECB3">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="100" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFECB3" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFE082">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="200" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFE082" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFD54F">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="300" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFD54F" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFCA28">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="400" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFCA28" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFC107">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="500" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFC107" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFB300">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="600" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFB300" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFA000">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="700" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFA000" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FF8F00">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="800" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FF8F00" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FF6F00">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="900" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FF6F00" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:background="#FFFFFF" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFE57F">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="A100" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFE57F" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFD740">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="A200" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFD740" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFC400">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="A400" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFC400" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#FFAB00">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="A700" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#FFAB00" />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

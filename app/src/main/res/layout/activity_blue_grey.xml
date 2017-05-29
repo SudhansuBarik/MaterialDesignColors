@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#ECEFF1">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="50" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#ECEFF1" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#CFD8DC">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="100" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#CFD8DC" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#B0BEC5">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="200" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#B0BEC5" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#90A4AE">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="300" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#90A4AE" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#78909C">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="400"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#78909C"
+                android:textColor="#FFFFFF" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#607D8B">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="500"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#607D8B"
+                android:textColor="#FFFFFF" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#546E7A">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="600"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#546E7A"
+                android:textColor="#FFFFFF" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#455A64">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="700"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#455A64"
+                android:textColor="#FFFFFF" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#37474F">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="800"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#37474F"
+                android:textColor="#FFFFFF" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#263238">
+
+            <TextView
+                style="@style/Color_Number"
+                android:layout_alignParentStart="true"
+                android:text="900"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                style="@style/Color_Code"
+                android:layout_alignParentEnd="true"
+                android:text="#263238"
+                android:textColor="#FFFFFF" />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>
